@@ -23,10 +23,8 @@ Humanitarian Financing
 ```
 This repo belongs to the THOR project (http://usc-isi-i2.github.io/thor/).  
 ## Dependencies ##
-```
 Python 2 envoironment  
 Facebook FastText (https://github.com/facebookresearch/fastText)  
-```
 
 ## Usage ##
 1. Clone this repo  
