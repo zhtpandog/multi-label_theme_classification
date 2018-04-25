@@ -1,0 +1,4 @@
+Water_Sanitation_Hygiene,Shelter_and_Non-Food_Items,Food_and_Nutrition
+Shelter_and_Non-Food_Items,Health,Coordination
+Protection_and_Human_Rights,Health,Education
+Disaster_Management,Climate_Change_and_Environment,Recovery_and_Reconstruction

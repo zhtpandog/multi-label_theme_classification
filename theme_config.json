@@ -1,0 +1,8 @@
+{"data_directory": "test.texts.txt", 
+"fasttext_directory": "", 
+"pretrained_model_directory": "model_wn1_lr1_ws5.bin", 
+"raw_result_filename": "lbl_wn1_lr1_ws5.txt",
+"result_filename": "result.txt",
+"mode": "topk",
+"k": 3,
+"threshold": -1}
